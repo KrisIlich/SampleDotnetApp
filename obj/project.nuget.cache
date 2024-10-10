@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BN6DXW1xR24=",
+  "success": true,
+  "projectFilePath": "/Users/kristopherslaptop/Documents/RAID - Software/VSC/DotNetDirectoriesTutorial/mslearn-dotnet-files/mslearn-dotnet-files.csproj",
+  "expectedPackageFiles": [
+    "/Users/kristopherslaptop/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
